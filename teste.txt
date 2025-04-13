@@ -5,4 +5,3 @@ teste qq
 teste gg
 teste oo
 teste 11
-teste 0101
